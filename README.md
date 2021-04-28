@@ -8,4 +8,6 @@ In this project, we utilized several classification models to predict a "high qu
 
 Salute!
 
+P.S. Here's a link for high quality wines: https://www.dryfarmwines.com/
+
 
