@@ -20,4 +20,6 @@ Salute!
 
 P.S. Here's a link for high quality wines: https://www.dryfarmwines.com/
 
+Slidedeck:  https://docs.google.com/presentation/d/1eiOTzfJb6cW4hTZKncSkJqO0m95qdByO7F9zkIKK7nE/edit?usp=sharing
+
 
